@@ -1,1 +1,1 @@
-# This is a README.
+A simple app being used to test Jenkins Pipelines.
